@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div className="bg-gray-100 text-center py-20">
       <h1 className="text-4xl font-bold mb-4">
-        Sasto ma High quality Jerseys
+        Sasto ma High quality Jerseys haru
       </h1>
 
       <p className="text-gray-600 mb-6">
