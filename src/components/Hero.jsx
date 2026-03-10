@@ -8,7 +8,7 @@ const Hero = () => {
       </h1>
 
       <p className="text-gray-600 mb-6">
-        Get your favorite team jersey today
+        Get your favorite Barcelona jersey today
       </p>
 
       <button className="bg-black text-white px-6 py-2 rounded">
